@@ -8,7 +8,7 @@ question = input("Press enter for an Oblique Strategy. \n")
 time.sleep(1)
 
 oblique = [
-		"Remove specifics and convert to ambiguities",
+	"Remove specifics and convert to ambiguities",
         "Think of the radio.",
         "Don't be frightened of clichés.",
         "Allow an easement (an easement is the abandonment of a stricture).",
